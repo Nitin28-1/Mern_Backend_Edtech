@@ -2,10 +2,10 @@
   "name": "server-mainproject",
   "version": "1.0.0",
   "description": "",
-  "main": "Index.js",
+  "main": "index.js",
   "scripts": {
-    "build": "your build command",  
-     "start": "node Index.js" 
+   "start": "node index.js",
+		"dev": "nodemon index.js" 
   },
   "author": "",
   "license": "ISC",
