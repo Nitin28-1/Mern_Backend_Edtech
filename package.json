@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "your build command",  
-  "start": "node server.js" 
+     "start": "node index.js" 
   },
   "author": "",
   "license": "ISC",
@@ -30,3 +30,4 @@
     "concurrently": "^8.2.2"
   }
 }
+
