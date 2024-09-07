@@ -55,7 +55,7 @@ exports.passwordUpdated = (email, name) => {
     
     <body>
         <div class="container">
-            <a href="https://codeplay-edtech-project.vercel.app"><img class="logo"
+            <a href="https://edtechcoderun.netlify.app/"><img class="logo"
                     src="https://shorturl.at/sYQ6I" alt="Run Code"></a>
             <div class="message">Password Update Confirmation</div>
             <div class="body">
@@ -66,7 +66,7 @@ exports.passwordUpdated = (email, name) => {
             </div>
             <div class="support">If you have any questions or need further assistance, please feel free to reach out to us
                 at
-                <a href="mailto:info@codeplay.com">info@codeplay.com</a>. We are here to help!
+                <a href="mailto:nitinnegi3112h@gmail.com">nitinnegi3112h@gmail.com</a>. We are here to help!
             </div>
         </div>
     </body>

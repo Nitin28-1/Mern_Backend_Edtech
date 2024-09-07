@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
       
       <body>
           <div class="container">
-              <a href="https://codeplay-edtech-project.vercel.app"><img class="logo" src="https://shorturl.at/sYQ6I"
+              <a href="https://edtechcoderun.netlify.app/"><img class="logo" src="https://shorturl.at/sYQ6I"
                       alt="Run Code"></a>
               <div class="message">Course Payment Confirmation</div>
               <div class="body">
@@ -77,7 +77,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
                   <p>Your Order ID is <b>${orderId}</b></p>
               </div>
               <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
-                      href="mailto:info@codeplay.com">info@codeplay.com</a>. We are here to help!</div>
+                      href="mailto:nitinnegi3112h@gmail.com">nitinnegi3112h@gmail.com</a>. We are here to help!</div>
           </div>
       </body>
       
